@@ -1,0 +1,6 @@
+name: Christian Selig
+description: Personal site for Christian Selig
+url: http://christianselig.com
+markdown: redcarpet
+pygments: true
+exclude: [christianselig.sublime-project, christianselig.sublime-workspace, config.rb]

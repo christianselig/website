@@ -1,0 +1,206 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 71.0,
+		"selected_items":
+		[
+			[
+				"set markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/selig/Dropbox/Projects/Website Projects/christianselig/index.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/_layouts/page.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/christianselig/_layouts/page.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/index.html",
+		"/Users/selig/Dropbox/Co Op Work Term Report.md",
+		"/Users/selig/Dropbox/Projects/Website Projects/christianselig/style/sass/style.scss",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/css/config.rb",
+		"/Users/selig/Dropbox/Projects/Website Projects/christianselig/style/config.rb",
+		"/Users/selig/Dropbox/Projects/Website Projects/christianselig/_config.yml",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/_config.yml",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/_site/index.html",
+		"/Users/selig/Downloads/ril_export.html",
+		"/Users/selig/Downloads/instapaper-export-1.html",
+		"/Users/selig/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/ril_export.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/_posts/2013-09-01-syllables-now-availble.md",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/_includes/header.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/Rakefile",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable copy/index.html",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/5F34EB58-6079-4791-872C-975E2A75A18A/index.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/README.md",
+		"/Users/selig/Dropbox/syllable-launch-post.md",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/20D74921-2F0E-4CA6-867B-E2AEE2647706/register_email.php",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/745ECAEA-B6BA-4044-A414-6F9BC68D2B2C/error_log",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/C771DABD-6E68-43DA-AE06-E99912513197/index.php",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/9AD86DDB-78A9-42B1-BCC5-38E0AE1170BB/config.php",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/4443BCD5-869B-471F-A8B1-F1DCE647FF69/index.php",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/DFEC747D-3E3D-498E-AB1E-AC2FF638B31A/config.php",
+		"/Users/selig/Library/Caches/Cleanup At Startup/Transmit/FC0B8747-C5A2-41A0-87DF-AEB166D040B7/config.php",
+		"/Users/selig/Downloads/Free/Tutorial/Tutorial.html",
+		"/private/var/folders/gr/g4jznkps1yj5k2_t7dtkgvwc0000gn/T/TemporaryItems/SaveForWeb/BrowserPreview/BrowserPreview_tmp.html",
+		"/Users/selig/Dropbox/Projects/Website Projects/syllable/css/sass/style.scss",
+		"/Users/selig/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"status =",
+			"status",
+			"status = 2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "christianselig.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

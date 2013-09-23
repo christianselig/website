@@ -1,0 +1,58 @@
+@import "home";
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-weight: 600;
+}
+
+strong {
+	font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-light/OpenSans-Light-webfont.eot');
+    src: url('../fonts/opensans-light/OpenSans-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-light/OpenSans-Light-webfont.woff') format('woff'),
+         url('../fonts/opensans-light/OpenSans-Light-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-light/OpenSans-Light-webfont.svg#open_sanslight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-regular/OpenSans-Regular-webfont.eot');
+    src: url('../fonts/opensans-regular/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-regular/OpenSans-Regular-webfont.woff') format('woff'),
+         url('../fonts/opensans-regular/OpenSans-Regular-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-regular/OpenSans-Regular-webfont.svg#open_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-semibold/OpenSans-Semibold-webfont.eot');
+    src: url('../fonts/opensans-semibold/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-semibold/OpenSans-Semibold-webfont.woff') format('woff'),
+         url('../fonts/opensans-semibold/OpenSans-Semibold-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-semibold/OpenSans-Semibold-webfont.svg#open_sanssemibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/opensans-bold/OpenSans-Bold-webfont.eot');
+    src: url('../fonts/opensans-bold/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/opensans-bold/OpenSans-Bold-webfont.woff') format('woff'),
+         url('../fonts/opensans-bold/OpenSans-Bold-webfont.ttf') format('truetype'),
+         url('../fonts/opensans-bold/OpenSans-Bold-webfont.svg#open_sansbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
